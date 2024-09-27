@@ -3,7 +3,7 @@
 - 🌱 i’m currently learning java and c++.
 - 😄 pronouns: they/them
 - ⚡ fun fact: i'm an artist and a singer, sometimes.
-- i understand and speak english, spanish and hindi. i'm passable in french and portuguese.
+- i understand and speak english, spanish and hindi. i'm also passable in french and portuguese.
 
 <!---
 nityap3/nityap3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
